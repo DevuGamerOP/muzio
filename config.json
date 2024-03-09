@@ -8,7 +8,7 @@
 
     "errors" : "https://discord.com/api/webhooks/1210169948316631050/kwH12dBt3F_3HXS_kzvP9EgQOSqcQReILN7VHJ-vcT-bCEVz9z5myTzSvu3COkWGVX0k",
     "spotifyId" : "40c9b58288114392b438d990f4dae3f6",
-    "mongourl2" : "",
+    "mongourl2" : "mongodb+srv://best:UDglXQEBZFuksePq@cluster0.68mktfu.mongodb.net/?retryWrites=true&w=majority",
     "spotifySecret" : "4167cb09c15f4054b2e3de29cd2a65fd",
     "topggapi" : "",
     "server" : "https://dsc.gg/sciencegear",
